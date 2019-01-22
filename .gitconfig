@@ -1,0 +1,20 @@
+[user]
+	name = <full name>
+	email = <email address>
+	username = <username>
+[core]
+    # set to 'true' on Windows
+	autocrlf = input
+	editor = vim
+	excludesfile = </path/to/gitignore>
+[web]
+	browser = firefox
+[diff]
+	tool = kdiff3
+[difftool]
+	prompt = false
+[color]
+	ui = auto
+[alias]
+	lol = log --oneline
+	stat = status

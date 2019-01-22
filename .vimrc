@@ -31,7 +31,7 @@ set hlsearch
 " enable filetype detection and indent support
 filetype plugin indent on
 
-" output encoding that is shown in the terminal 
+" output encoding that is shown in the terminal
 set encoding=utf-8
 
 " output encoding of the file that is written

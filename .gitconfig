@@ -1,20 +1,20 @@
 [user]
-	name = <full name>
-	email = <email address>
-	username = <username>
+    name = <full name>
+    email = <email address>
+    username = <username>
 [core]
     # set to 'true' on Windows
-	autocrlf = input
-	editor = vim
-	excludesfile = </path/to/gitignore>
+    autocrlf = input
+    editor = vim
+    excludesfile = </path/to/gitignore>
 [web]
-	browser = firefox
+    browser = firefox
 [diff]
-	tool = kdiff3
+    tool = kdiff3
 [difftool]
-	prompt = false
+    prompt = false
 [color]
-	ui = auto
+    ui = auto
 [alias]
-	lol = log --oneline
-	stat = status
+    lol = log --oneline
+    stat = status

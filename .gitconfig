@@ -13,8 +13,13 @@
     tool = kdiff3
 [difftool]
     prompt = false
+[merge]
+    tool = kdiff3
+[push]
+    default = simple
 [color]
     ui = auto
 [alias]
-    lol = log --oneline
+    lol = log --oneline --decorate
+    logd = log --decorate
     stat = status

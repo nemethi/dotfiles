@@ -36,3 +36,8 @@ set encoding=utf-8
 
 " output encoding of the file that is written
 set fileencoding=utf-8
+
+" produce the same colors in tmux
+set background=dark
+set t_Co=256
+

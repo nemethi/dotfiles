@@ -2,13 +2,13 @@
 syntax enable
 
 " number of visual spaces per TAB
-set tabstop=4
+set tabstop=2
 
 " number of spaces in tab when editing
-set softtabstop=4
+set softtabstop=2
 
 " number of spaces when indentation is manually adjusted (TAB and Backspace)
-set shiftwidth=4
+set shiftwidth=2
 
 " tabs are spaces
 set expandtab
